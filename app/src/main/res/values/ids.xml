@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="photoViewerRootView" type="id" />
+    <item name="photoViewerZoomLayout" type="id" />
+    <item name="photoViewerImage" type="id" />
+    <item name="photoViewerDescription" type="id" />
+    <item name="photoViewerBottomRootView" type="id" />
+    <item name="photoViewerCircleImage" type="id" />
+    <item name="photoViewerName" type="id" />
+    <item name="photoViewerDate" type="id" />
+    <item name="photoViewerForwardIcon" type="id" />
+    <item name="photoViewerShareIcon" type="id" />
+</resources>
